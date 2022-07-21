@@ -1,0 +1,35 @@
+Binary Form of 1st ip address:
+0b1011011101000100000101101110
+Octal Form of 1st ip address:
+0o1335040556
+Hexadecimal Form of 1st ip address:
+0o1335040556
+ Binary form of 3rd ip address0b1011011101000100000101110000
+Octal Form of 3rd ip address:
+0o1335040560
+Hexadecimal Form of 3rd ip address:
+0xb744170
+ Binary form of 4th ip address0b1110010100010101000111001100100
+Octal Form of 4th ip address:
+0o16242507144
+Hexadecimal Form of 4th ip address:
+0x728a8e64
+ Binary form of 5th ip address0b1011011101000100000101101110
+Octal Form of 5th ip address:
+0o1335040556
+Hexadecimal Form of 5th ip address0xb74416e
+ Binary form of 6th ip address0b1110010100010101000111001011001
+Octal Form of 6th ip address:
+0o16242507131
+Hexadecimal Form of 6th ip address
+0x728a8e59
+ Binary form of 9th ip address0b1110010100010101000111001100100
+Octal Form of 9th ip address:
+0o16242507144
+Hexadecimal Form of 9th ip address
+0x728a8e64
+ Binary form of 10th ip address0b1011011101000100000101110001
+Octal Form of 10th ip address:
+0o1335040561
+Hexadecimal Form of 10th ip address
+0xb744171
